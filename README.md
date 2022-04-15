@@ -4,21 +4,18 @@
 High-Performance Notification Engine Using Pure Functional Scala, ZIO Fiber, ZIO HTTP, ZIO Kafka  Event-Driven Architecture. Infra Use Case.
 =========
 
-> Sample reactive Movie Ticket reservation system  
+> Notification Engine  
 
 [![Build Status](https://travis-ci.org/ziyasal/Reserveon.svg?branch=master)](https://travis-ci.org/ziyasal/Reserveon)
 
 ## Tech stack
  - [Scala](https://www.scala-lang.org/)
- - [Akka Http](https://github.com/akka/akka-http)
- - [Slick](https://github.com/slick/slick)
- - [Circe](https://github.com/circe/circe)
- - [Flayway](https://github.com/flyway/flyway) (for schema migration)
- - [Postgres](https://github.com/postgres/postgres)
- - [Redis](https://github.com/antirez/redis)
- - [ScalaTest](http://www.scalatest.org/)
- - [Specs2](https://github.com/etorreborre/specs2)
- - [Mockito](https://github.com/mockito/mockito)
+ - [ZIO](https://github.com/akka/akka-http)
+ - [ZIO Kafka](https://github.com/slick/slick)
+ - [ZIO Http](https://github.com/circe/circe)
+ - [ZIO json](https://github.com/flyway/flyway) (for schema migration)
+ - [Apache Common Mail](https://github.com/postgres/postgres)
+
 
 ## Implemented Features:
 - OAuth2 support (client_credentials, password, refresh_token flows)
