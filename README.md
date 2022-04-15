@@ -10,11 +10,11 @@ High-Performance Notification Engine Using Pure Functional Scala, ZIO Fiber, ZIO
 
 ## Tech stack
  - [Scala](https://www.scala-lang.org/)
- - [ZIO](https://github.com/akka/akka-http)
- - [ZIO Kafka](https://github.com/slick/slick)
- - [ZIO Http](https://github.com/circe/circe)
- - [ZIO json](https://github.com/flyway/flyway) (for schema migration)
- - [Apache Common Mail](https://github.com/postgres/postgres)
+ - [ZIO](https://zio.dev/next/overview/)
+ - [ZIO Kafka](https://github.com/zio/zio-kafka)
+ - [ZIO Http](https://github.com/dream11/zio-http)
+ - [ZIO json](https://github.com/zio/zio-json)
+ - [Apache Common Mail](https://commons.apache.org/proper/commons-email)
 
 
 ## Implemented Features:
