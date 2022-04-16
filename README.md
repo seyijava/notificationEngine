@@ -1,7 +1,7 @@
 
 
+High-Porformce Notification Engine in ZIO Scala that feeds of data from Apache Kafka to send SMS,EMAIL or connects via webhook.
 
-High-Performance Notification Engine Using Pure Functional Scala, ZIO Fiber, ZIO HTTP, ZIO Kafka  Event-Driven Architecture. Infra Use Case.
 =========
 
 > Notification Engine  
