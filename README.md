@@ -116,6 +116,8 @@ sbt coverageReport
 
 
 
+## Delivery Channels
+
 #### SMS
 
 Connects via Twilio to send sms messages. To make sure your event is processed by the SMS delivery gateway when using this for a **Notification Service** the _channel_ field in your event written to Apache Kafka should be something like this:
@@ -333,4 +335,3 @@ Please read [this](CODE_OF_CONDUCT.md).
 ## License
 
 [GNU General Public License v3.0](https://github.com/malike/go-kafka-alert/blob/master/LICENSE)
-
