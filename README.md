@@ -2,10 +2,6 @@
 
 High-Porformce Notification Engine in ZIO Scala that feeds of data from Apache Kafka to send SMS,EMAIL or connects via webhook.
 
-=========
-
-> Notification Engine  
-
 [![Build Status](https://travis-ci.org/ziyasal/Reserveon.svg?branch=master)](https://travis-ci.org/ziyasal/Reserveon)
 
 ## Tech stack
